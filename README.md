@@ -118,12 +118,5 @@ To resolve this 403 Forbidden error, I followed three basic steps: Step 1: I ens
 
 ---
 
-## Bucket Policies
-
-### What I did in this extension
-
-### Understanding bucket policies
-
-### What my bucket policy does
 
 ---
